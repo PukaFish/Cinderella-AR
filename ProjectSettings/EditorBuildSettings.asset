@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Testing/Cinderella_Game.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Cutscene_One.unity
+    guid: d9691fa6347725744858063b6808e4b5
+  - enabled: 1
+    path: Assets/Scenes/First_Level.unity
+    guid: 8992154bb6f366e489fa378f7d492ae3
+  - enabled: 1
+    path: Assets/Scenes/Cutscene_Two.unity
+    guid: 618c695b9b2f1174183bcd5c005efe4b
+  - enabled: 1
+    path: Assets/Scenes/Second_Level.unity
+    guid: 1de37b8e571445740bd2930dc39b6fb7
+  - enabled: 1
+    path: Assets/Scenes/Cutscene_Three.unity
+    guid: c9d35c2b108a6174fb12a166e9c175d9
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: b85d1663df48859449137c87a0ef0c35, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 14238d286dde5304c9418f0ff66902f6, type: 2}
